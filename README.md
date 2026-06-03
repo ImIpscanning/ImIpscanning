@@ -206,7 +206,6 @@ public class Ipscanning {
 <br><br>
 
 <h3>Code. Secure. Optimize.</h3>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,50:4B5563,100:111827&height=130&section=footer" />
 
 </div>
