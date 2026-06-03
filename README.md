@@ -86,8 +86,7 @@ I am a developer focused on **Java, backend development, databases and cybersecu
 
 My goal is to build systems that are not only functional, but also clean, secure, scalable and easy to maintain.
 
-I enjoy learning how applications work from the inside:  
-how data is stored, how servers process information, how users interact with systems and how security can protect everything behind the scenes.
+I enjoy learning how applications work from the inside: how data is stored, how servers process information, how users interact with systems and how security can protect everything behind the scenes.
 
 ```diff
 + Java development
@@ -128,7 +127,7 @@ how data is stored, how servers process information, how users interact with sys
 [10] Performance Optimization
 ```
 
-I like Java because it is structured, powerful and widely used for building serious applications, backend systems and enterprise-level software.
+Java is one of my main focuses because it is structured, powerful and widely used for building serious applications, backend systems and enterprise-level software.
 
 ---
 
@@ -356,7 +355,7 @@ Spring Boot              █████░░░░░
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imipscanning&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imipscanning&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=imipscanning&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -382,7 +381,10 @@ Spring Boot              █████░░░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/imipscanning/imipscanning/output/github-contribution-grid-snake-dark.svg" />
+```txt
+Contribution snake loading soon...
+Run the GitHub Action first to generate the animation.
+```
 
 </div>
 
@@ -435,13 +437,8 @@ Create secure, organized and useful systems.
 
 <div align="center">
 
-<a href="https://github.com/imipscanning">
-  <img src="https://img.shields.io/badge/GitHub-imipscanning-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:imipscanning@gmail.com">
-  <img src="https://img.shields.io/badge/Email-imipscanning%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/imipscanning"><img src="https://img.shields.io/badge/GitHub-imipscanning-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:imipscanning@gmail.com"><img src="https://img.shields.io/badge/Email-imipscanning%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
