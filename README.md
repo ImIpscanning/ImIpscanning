@@ -1,13 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=HANA%20DEV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Plugins%20%7C%20Development%20%7C%20Cybersecurity&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F5FF,100:8A2BE2&height=240&section=header&text=ipscanning&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Plugin%20Creator%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Building+advanced+plugins...;%3E+Securing+systems...;%3E+Creating+FiveM+resources...;%3E+Breaking+limits%2C+not+rules.;%3E+Code.+Secure.+Optimize." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2300&pause=600&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+Building+advanced+plugins...;%3E+Creating+optimized+systems...;%3E+Developing+FiveM+resources...;%3E+Learning+cybersecurity+every+day...;%3E+Code.+Secure.+Optimize.+Repeat." />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ipscanning&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/ipscanning?style=for-the-badge&color=8A2BE2&labelColor=111111)
+![GitHub Stars](https://img.shields.io/github/stars/ipscanning?style=for-the-badge&color=00F5FF&labelColor=111111)
 
 </div>
 
 ---
 
 ```bash
-┌──(hana㉿github)-[~/profile]
+┌──(ipscanning㉿github)-[~/profile]
 └─$ whoami
