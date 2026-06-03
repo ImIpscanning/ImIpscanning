@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ImIpscanning/ImIpscanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Hana
 
-Here are some ideas to get you started:
+### 🛡️ Cybersecurity Researcher • ⚡ Plugin Creator • 💻 Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+secure+systems...;Creating+advanced+plugins...;FiveM+Developer...;Cybersecurity+Enthusiast...;Always+learning+new+technologies..." />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Hana
+Role: Developer & Security Researcher
+Focus:
+  - Plugin Development
+  - FiveM Systems
+  - Cybersecurity
+  - Automation
+  - Backend Development
+Status: Building cool things ⚡
