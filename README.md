@@ -1,48 +1,23 @@
-<!-- ========================================================= -->
-<!--                        HEADER                             -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4B5563,100:E5E7EB&height=230&section=header&text=ipscanning&fontSize=74&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Databases%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18"
-    alt="Header"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4B5563,100:E5E7EB&height=230&section=header&text=ipscanning&fontSize=74&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Databases%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=850&lines=Building+secure+and+structured+software.;Designing+database-driven+systems.;Learning+cybersecurity+with+a+defensive+mindset.;Code.+Secure.+Optimize."
-    alt="Typing Animation"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=850&lines=Building+secure+and+structured+software.;Designing+database-driven+systems.;Learning+cybersecurity+with+a+defensive+mindset.;Code.+Secure.+Optimize." />
 
 </div>
 
 <br>
 
-<!-- ========================================================= -->
-<!--                        CONTACT                            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://img.shields.io/badge/GitHub-imipscanning-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="GitHub"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Email-imipscanning%40gmail.com-374151?style=for-the-badge&logo=gmail&logoColor=EA4335"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/GitHub-imipscanning-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Email-imipscanning%40gmail.com-374151?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 
 </div>
 
 <br>
 
 ---
-
-<!-- ========================================================= -->
-<!--                    PROFESSIONAL PROFILE                   -->
-<!-- ========================================================= -->
 
 ## Professional Profile
 
@@ -64,99 +39,97 @@ My goal is to understand how real systems work internally: how data is stored, h
 
 ---
 
-<!-- ========================================================= -->
-<!--                        CORE AREAS                         -->
-<!-- ========================================================= -->
-
 ## Core Areas
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=ED8B00&center=true&vCenter=true&width=270&height=45&lines=Java+Development;OOP+Principles;Backend+Logic;Clean+Architecture"
-    alt="Java Development"
-  />
+<table>
+<tr>
+<td align="center" width="33%">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=4479A1&center=true&vCenter=true&width=270&height=45&lines=Databases;SQL+Queries;Data+Modeling;Secure+Storage"
-    alt="Databases"
-  />
+<h3>Java Development</h3>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=E5E7EB&center=true&vCenter=true&width=270&height=45&lines=Cybersecurity;Secure+Coding;Authentication;Defensive+Thinking"
-    alt="Cybersecurity"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=ED8B00&center=true&vCenter=true&width=270&height=45&lines=OOP+Principles;Backend+Logic;Clean+Architecture;Reliable+Applications" />
+
+<p>Structured applications, maintainable logic and strong backend foundations.</p>
+
+</td>
+<td align="center" width="33%">
+
+<h3>Databases</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=4479A1&center=true&vCenter=true&width=270&height=45&lines=SQL+Queries;Data+Modeling;Relationships;Secure+Storage" />
+
+<p>Organized data, relational design, optimized queries and secure storage.</p>
+
+</td>
+<td align="center" width="33%">
+
+<h3>Cybersecurity</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=E5E7EB&center=true&vCenter=true&width=270&height=45&lines=Secure+Coding;Input+Validation;Authentication;Defensive+Thinking" />
+
+<p>Ethical and defensive security focused on building safer software.</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<p align="center">
-  Java development, database design and cybersecurity fundamentals focused on building reliable, organized and secure systems.
-</p>
-
-<br>
-
 ---
-
-<!-- ========================================================= -->
-<!--                        TECH STACK                         -->
-<!-- ========================================================= -->
 
 ## Tech Stack
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
 
 </div>
 
 <br>
 
 ---
-
-<!-- ========================================================= -->
-<!--                    SECURITY MINDSET                       -->
-<!-- ========================================================= -->
 
 ## Security Mindset
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=850&lines=Security+belongs+inside+the+architecture.;Clean+code+reduces+risk.;Good+systems+are+designed+to+be+safe."
-    alt="Security Mindset"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=850&lines=Security+belongs+inside+the+architecture.;Clean+code+reduces+risk.;Good+systems+are+designed+to+be+safe." />
 
 </div>
 
@@ -164,24 +137,29 @@ My goal is to understand how real systems work internally: how data is stored, h
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Secure%20Coding-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Input%20Validation-1F2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database%20Security-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL%20Injection%20Prevention-4B5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Authentication-6B7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Password%20Protection-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend%20Security-1F2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/Defensive%20Thinking-374151?style=flat-square" />
+<table>
+<tr>
+<td align="center">Secure Coding</td>
+<td align="center">Input Validation</td>
+<td align="center">Database Security</td>
+</tr>
+<tr>
+<td align="center">SQL Injection Prevention</td>
+<td align="center">Authentication</td>
+<td align="center">Password Protection</td>
+</tr>
+<tr>
+<td align="center">Backend Security</td>
+<td align="center">Web Security</td>
+<td align="center">Defensive Thinking</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
 ---
-
-<!-- ========================================================= -->
-<!--                  DEVELOPMENT PHILOSOPHY                   -->
-<!-- ========================================================= -->
 
 ## Development Philosophy
 
@@ -208,10 +186,6 @@ public class Ipscanning {
 
 ---
 
-<!-- ========================================================= -->
-<!--                    CURRENT DIRECTION                      -->
-<!-- ========================================================= -->
-
 ## Current Direction
 
 ```diff
@@ -225,26 +199,14 @@ public class Ipscanning {
 
 <br>
 
----
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Clean+code.;Secure+logic.;Strong+databases.;Better+systems."
-    alt="Footer Typing"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Clean+code.;Secure+logic.;Strong+databases.;Better+systems." />
 
-  <br><br>
+<br><br>
 
-  <h3>Code. Secure. Optimize.</h3>
+<h3>Code. Secure. Optimize.</h3>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,50:4B5563,100:111827&height=130&section=footer"
-    alt="Footer"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,50:4B5563,100:111827&height=130&section=footer" />
 
 </div>
