@@ -10,9 +10,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ipscanning&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ipscanning?style=for-the-badge&color=7C3AED&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/ipscanning?style=for-the-badge&color=00D9FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=imipscanning&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/imipscanning?style=for-the-badge&color=7C3AED&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/imipscanning?style=for-the-badge&color=00D9FF&labelColor=0D1117" />
 
 </div>
 
@@ -37,6 +37,9 @@ with security, performance and scalability in mind.
 
 ```yaml
 username: ipscanning
+github: imipscanning
+email: imipscanning@gmail.com
+
 role: Java Developer / Database Enthusiast / Cybersecurity Learner
 
 main_focus:
@@ -143,8 +146,6 @@ Databases are one of my main interests.
 I like working with data, relationships, queries, tables,
 logic, optimization and secure storage.
 ```
-
-### Database topics I focus on
 
 | Area | Description |
 |---|---|
@@ -353,15 +354,15 @@ Spring Boot              █████░░░░░
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ipscanning&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imipscanning&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipscanning&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imipscanning&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipscanning&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imipscanning&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff" />
 
 </div>
 
@@ -371,7 +372,7 @@ Spring Boot              █████░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ipscanning&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00D9FF&line=7C3AED&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imipscanning&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00D9FF&line=7C3AED&point=FFFFFF" />
 
 </div>
 
@@ -381,7 +382,7 @@ Spring Boot              █████░░░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ipscanning/ipscanning/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/imipscanning/imipscanning/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -434,8 +435,13 @@ Create secure, organized and useful systems.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-ipscanning-111111?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-ipscanning-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://github.com/imipscanning">
+  <img src="https://img.shields.io/badge/GitHub-imipscanning-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:imipscanning@gmail.com">
+  <img src="https://img.shields.io/badge/Email-imipscanning%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
