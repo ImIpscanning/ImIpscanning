@@ -349,44 +349,74 @@ Spring Boot              █████░░░░░
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Overview
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imipscanning&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=imipscanning&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
+<table>
+  <tr>
+    <td align="center">
+      <h3>☕ Java</h3>
+      <p>Backend logic, OOP and structured applications.</p>
+    </td>
+    <td align="center">
+      <h3>🗄️ Databases</h3>
+      <p>SQL, data relationships and secure storage.</p>
+    </td>
+    <td align="center">
+      <h3>🛡️ Cybersecurity</h3>
+      <p>Secure coding, validation and system protection.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imipscanning&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imipscanning&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00D9FF&line=7C3AED&point=FFFFFF" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
 
 ```txt
-Contribution snake loading soon...
-Run the GitHub Action first to generate the animation.
+╭──────────────────────────────────────────╮
+│              GITHUB PROFILE              │
+├──────────────────────────────────────────┤
+│ Username: imipscanning                   │
+│ Public Name: ipscanning                  │
+│ Main Focus: Java + Databases + Security  │
+│ Status: Learning, Building, Improving    │
+╰──────────────────────────────────────────╯
 ```
 
-</div>
+---
+
+## 📈 Activity Overview
+
+```txt
+Java Development         ████████░░
+SQL & Databases          ████████░░
+Backend Logic            ███████░░░
+Cybersecurity Basics     ███████░░░
+Secure Coding            ███████░░░
+Problem Solving          ████████░░
+```
+
+---
+
+## 🧪 Current Build
+
+```bash
+┌──(ipscanning㉿github)-[~/activity]
+└─$ ./status.sh
+```
+
+```diff
++ Writing cleaner Java code
++ Practicing database design
++ Learning cybersecurity concepts
++ Improving backend logic
++ Building secure project structures
++ Understanding how real systems work
+
+- Broken widgets
+- Random image errors
+- Unstable external stats
+```
 
 ---
 
